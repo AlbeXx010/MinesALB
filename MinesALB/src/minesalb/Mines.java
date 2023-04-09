@@ -13,7 +13,6 @@ public class Mines {
      * @param args argumentos que se puede pasar al programa, pero nosotros no lo usamos.
      */
     public static void main(String[] args) {
-        System.out.println("Esto es solo una prueba para Git");
         Controlador.seleccionJuego();
     }
 }
